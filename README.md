@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+
+
 <h2> 📈 &nbsp;My GitHub History!</h2>
 <a href="https://github.com/vilasrhegde">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vilasrhegde&show_icons=true&theme=radical" />
@@ -33,6 +36,9 @@ Here are some ideas to get you started:
 <img alt="" align="left" src="https://github.com/DenverCoder1/github-readme-streak-stats"/> 
 
 <img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vilasrhegde&theme=github"/>
+
+[![@vilashegde's Holopin board](https://holopin.io/api/user/board?user=vilashegde)](https://holopin.io/@vilashegde)
+
 
 
 
