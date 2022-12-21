@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <img alt="" align="left" src="https://github.com/DenverCoder1/github-readme-streak-stats"/> 
 
-<img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=vilasrhegde&theme=github"/>
+
 
 [![@vilashegde's Holopin board](https://holopin.io/api/user/board?user=vilashegde)](https://holopin.io/@vilashegde)
 
