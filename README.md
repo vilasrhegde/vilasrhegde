@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-<h2> 📈 &nbsp;My GitHub History!</h2>
+<h2> 📈 &nbsp;My GitHub Repo-history!</h2>
 <a href="https://github.com/vilasrhegde">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vilasrhegde&show_icons=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vilasrhegde&theme=noctis_minimus&layout=compact" />
